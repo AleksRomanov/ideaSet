@@ -5,9 +5,9 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="products_unit.htm" type="PLAIN_TEXT" />
       <mapping pattern="production_unit.scss" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="modal.scss" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
     </extensionMap>
