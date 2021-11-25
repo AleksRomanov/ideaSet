@@ -3,6 +3,9 @@
     <option name="settings">
       <map>
         <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="git.use.schannel.on.windows" value="true" />
+        <entry key="localHistory.daysToKeep" value="15" />
+        <entry key="vcs.non.modal.commit.toggle.ui" value="true" />
       </map>
     </option>
   </component>
