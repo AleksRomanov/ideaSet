@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;}}" host="github.com" id="ef2dc071-b2ee-4507-af8a-2c483cc53e3d" keyPath="$USER_HOME$/.ssh/Github-AcademyHTML" port="22" nameFormat="DESCRIPTIVE" username="git" />
+      <sshConfig connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;}}" host="github.com" id="ef2dc071-b2ee-4507-af8a-2c483cc53e3d" keyPath="$USER_HOME$/.ssh/Github-AcademyHTML" port="22" nameFormat="DESCRIPTIVE" username="git" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
