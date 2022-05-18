@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="header-layout" type="AUTO_DETECTED" />
       <mapping pattern="headerFooterWrapper.tsx" type="AUTO_DETECTED" />
+      <mapping pattern="main-item.js" type="AUTO_DETECTED" />
       <mapping ext="plist" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
